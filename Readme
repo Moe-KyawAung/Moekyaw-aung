@@ -1,0 +1,74 @@
+# 👋 Hi, I’m Moe Kyaw Aung
+
+> Android Developer • Go Enthusiast • Open Source Contributor
+
+I build reliable, scalable backend services in Go and beautiful, modern Android apps in Kotlin. I enjoy designing clean APIs, shipping production-ready services with Docker, and crafting delightful mobile experiences using Jetpack Compose.
+
+---
+
+## 🔭 What I do
+- Build backend services and microservices in Go (REST, WebSocket, OAuth2, JWT).
+- Develop Android apps with Kotlin, MVVM, Jetpack Compose, Coroutines, and Room.
+- Ship production-ready systems with Docker, PostgreSQL, Redis and CI/CD.
+- Contribute to open source and mentor junior engineers.
+
+---
+
+## 🛠️ Top Skills
+- Languages: Go, Kotlin, Java, SQL
+- Mobile: Android, Jetpack Compose, MVVM, Coroutines
+- Backend: REST APIs, WebSockets, Microservices, OAuth2, JWT
+- Databases & Cache: PostgreSQL, Redis
+- Tooling: Docker, Git, CI/CD (GitHub Actions), testing
+- Practices: Clean architecture, TDD, observability, performance tuning
+
+---
+
+## ⭐ Featured Projects
+- [go-rest-api](https://github.com/Moe-KyawAung/go-rest-api) — High-performance REST API with PostgreSQL, JWT auth, middleware, and Docker.
+- [go-auth-service](https://github.com/Moe-KyawAung/go-auth-service) — Authentication microservice: OAuth2, JWT refresh tokens, Redis-backed sessions.
+- [go-websocket-chat](https://github.com/Moe-KyawAung/go-websocket-chat) — Real-time chat with WebSockets, Redis pub/sub, typing indicators.
+- [android-mvvm-app](https://github.com/Moe-KyawAung/android-mvvm-app) — Modern Android app using MVVM, Jetpack Compose, Retrofit, and Room.
+- [kotlin-weather-app](https://github.com/Moe-KyawAung/kotlin-weather-app) — Material-designed weather app with offline support.
+- [android-ui-components](https://github.com/Moe-KyawAung/android-ui-components) — Reusable Jetpack Compose components, animations, and widgets.
+
+(If you want, I can format these as pinned project cards with badges and readme excerpts.)
+
+---
+
+## 🧭 How I work
+- Prefer small, well-tested increments and clear API contracts.
+- Automate builds and deployments using CI/CD pipelines.
+- Prioritize observability: logs, metrics, and traces.
+- Advocate for readable code and solid developer experience.
+
+---
+
+## 📚 Currently learning
+- Advanced Go concurrency patterns and performance tuning
+- Compose multiplatform & modern Android architecture patterns
+- Event-driven architectures and streaming systems
+
+---
+
+## 🤝 Open Source & Community
+I regularly contribute to open source projects and enjoy pairing on tricky bugs. If you maintain a Go or Android project and need help, I’m happy to collaborate.
+
+---
+
+## 📫 Get in touch
+- GitHub: https://github.com/Moe-KyawAung
+- Email: moekyawaung@fastmail.com
+- LinkedIn: (add your LinkedIn URL)
+- Twitter / X: (add your handle)
+
+---
+
+## 📌 Want this README customized?
+This is a starter profile README. I can:
+- Add dynamic GitHub stats and language cards
+- Create pinned project cards with descriptions/screenshots
+- Include a downloadable resume and contact buttons
+- Tweak visual style (emoji, theme color, badges)
+
+If you’re ready, tell me the details below and I’ll personalize the README for you.
